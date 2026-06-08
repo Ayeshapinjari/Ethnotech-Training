@@ -12,6 +12,7 @@ public class Twopointers {
         }
         int front=0;
         int end=arr.length-1;
+        System.out.println();
         while(front<end)
         {
             if(arr[front]%2!=0&&arr[end]%2==0)
