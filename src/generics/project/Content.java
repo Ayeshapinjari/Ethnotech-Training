@@ -1,5 +1,5 @@
 package generics.project;
-
+// single generics
 public class Content <T> {
     T name;
 
